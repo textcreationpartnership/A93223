@@ -1,0 +1,167 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A short sermon preach'd at a short warning upon a short subject, (Viz.) malt, to a thin congregation To which is added, The character of a drunkard.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1672</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93223</idno>
+            <idno type="STC">Wing S3628A</idno>
+            <idno type="STC">ESTC R230291</idno>
+            <idno type="EEBO-CITATION">99895972</idno>
+            <idno type="PROQUEST">99895972</idno>
+            <idno type="VID">153593</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93223)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 153593)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2371:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A short sermon preach'd at a short warning upon a short subject, (Viz.) malt, to a thin congregation To which is added, The character of a drunkard.</title>
+               </titleStmt>
+               <extent>[2], 2 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed in the year, 1672.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Folger Shakespeare Library, Washington, D.C..</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Alcoholic beverages --  Early works to 1800.</term>
+               <term>Satire, English --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:153593:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 46 -->
+            <p>A Short Sermon PREACH'D at a SHORT WARNING UPON A SHORT SUBJECT, <hi>(Viz.)</hi> MALT, TO A THIN CONGREGATION.</p>
+            <p>To which is added, <hi>The Character of a Drunkard.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year, 1672.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:153593:2"/>
+            <!-- PDF PAGE 47 -->
+            <pb n="1" facs="tcp:153593:2"/>
+            <!-- PDF PAGE 47 -->
+            <head>
+               <hi>A</hi> Short Sermon <hi>Preach'd at a</hi> Short Warning, <hi>upon a</hi> Short Subject, (<hi>viz.</hi> Malt,) <hi>&amp;c.</hi>
+            </head>
+            <opener>
+               <salute>Beloved,</salute>
+            </opener>
+            <p>LET me crave your Reverent Attention, for I am come at a <hi>Short Warning,</hi> to Preach a <hi>Short Sermon</hi> upon a <hi>Small Subject,</hi> to a <hi>Thin Congregation:</hi>
+            </p>
+            <p>
+               <hi>Beloved,</hi>
+            </p>
+            <p>My Text is <hi>Malt,</hi> now I cannot divide it into <hi>Senten<g ref="char:EOLhyphen"/>ces,</hi> becauſe it has none; nor into <hi>Syllables,</hi> becauſe (upon the whole Matter) it is but a <hi>Monoſyllable;</hi> therefore I muſt (as neceſſity enforces me) divide it into <hi>Letters,</hi> which I find in my <hi>Text</hi> to be four MALT.</p>
+            <p>My Beloved, M is <hi>Moral,</hi> A is <hi>Allegorical,</hi> L is <hi>Lite<g ref="char:EOLhyphen"/>ral,</hi> and T is <hi>Theological.</hi> The <hi>Moral</hi> is well ſet forth to teach <hi>you Drunkards</hi> good Manners; wherefore M my <hi>Maſters,</hi> A <hi>All</hi> of you L <hi>Liſten</hi> T to my <hi>Text.</hi> The <hi>Theological</hi> is when <hi>one thing</hi> is <hi>ſpoken of,</hi> and <hi>another thing</hi> is <hi>meant;</hi> the <hi>thing ſpoken of</hi> is <hi>Malt;</hi> the <hi>thing meant</hi> is the <hi>Oil</hi> of <hi>Malt, Strong Beer,</hi> which <hi>you Ruſticks</hi> make M <hi>Meat,</hi> A <hi>Apparel,</hi> L <hi>Liberty,</hi> and T <hi>Treaſure.</hi> The <hi>Litéral</hi> is according to the <hi>Letter</hi> M <hi>Much,</hi> A <hi>Ale,</hi> L <hi>Lit<g ref="char:EOLhyphen"/>tle,</hi> T <hi>Thrift, Much Ale, Little Thrift.</hi> The <hi>Theologi<g ref="char:EOLhyphen"/>cal</hi> is according to the <hi>Effects</hi> that it works, which I find
+<pb n="2" facs="tcp:153593:3" rendition="simple:additions"/>
+               <!-- PDF PAGE 48 -->
+in my <hi>Text</hi> to be of <hi>two kinds,</hi> Firſt in <hi>this World.</hi> Se<g ref="char:EOLhyphen"/>condly, in the <hi>World to come.</hi> In <hi>this World,</hi> the <hi>Effects</hi> which it <hi>works</hi> are in ſome M <hi>Murther,</hi> in others, A <hi>Adul<g ref="char:EOLhyphen"/>tery,</hi> in ſome L <hi>Looſeneſs of Life,</hi> in others T <hi>Treaſon.</hi> The <hi>Effects</hi> which it works in the <hi>World to come,</hi> are, M <hi>Miſery,</hi> A <hi>Anguiſh,</hi> L <hi>Lamentation,</hi> and T <hi>Torment.</hi>
+            </p>
+            <p>Wherefore my Firſt <hi>
+                  <g ref="char:V">Ʋ</g>ſe</hi> ſhall be a <hi>
+                  <g ref="char:V">Ʋ</g>ſe</hi> of <hi>Exhortati<g ref="char:EOLhyphen"/>on:</hi> M <hi>My Maſters,</hi> A <hi>All of you,</hi> L <hi>Leave,</hi> T <hi>Tipling;</hi> or elſe by way of <hi>Commination,</hi> M <hi>My Maſters,</hi> A <hi>All of you,</hi> L <hi>Look for,</hi> T <hi>Torments.</hi>
+            </p>
+            <p>And ſo much ſhall ſuffice for this <hi>Time</hi> and <hi>Text;</hi> only by way of <hi>Caution</hi> take this</p>
+            <div type="part">
+               <head>
+                  <hi>Character</hi> of a <hi>Drunkard.</hi>
+               </head>
+               <p>THat <hi>He</hi> is the <hi>Annoyance</hi> of <hi>Modeſty,</hi> the <hi>Trouble</hi> of <hi>Civility,</hi> the <hi>Spoil</hi> of <hi>Wealth,</hi> the <hi>Deſtruction</hi> of <hi>Reaſon,</hi> the <hi>Brewer's Agent,</hi> the <hi>Ale-houſe's Benefactour,</hi> the <hi>Beggar's Companion,</hi> the <hi>Conſtable's Trouble,</hi> his <hi>Wife's Woe,</hi> his <hi>Children's Sorrow,</hi> his <hi>Neighbour's Scoff,</hi> his <hi>own Shame,</hi> a <hi>walking Swill-Tub,</hi> a <hi>Picture of a Beaſt,</hi> and a <hi>Monſter of a Man.</hi>
+               </p>
+               <epigraph>
+                  <q>
+                     <l>
+                        <hi>Say-well</hi> and <hi>Doe-well</hi> end both with a Letter,</l>
+                     <l>
+                        <hi>Say-well</hi> is <hi>good,</hi> but <hi>Doe-well</hi> is <hi>better.</hi>
+                     </l>
+                  </q>
+               </epigraph>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
